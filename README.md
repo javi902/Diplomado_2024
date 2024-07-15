@@ -7,7 +7,5 @@ Singers:
 * Ed sheran
 * One Republicano
 
-Schools
-*Coar
-*Sagrado Corazon de jesus
-*Claretiano
+And we finsh totally this homework
+
