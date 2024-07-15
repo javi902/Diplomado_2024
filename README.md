@@ -8,6 +8,6 @@ Singers:
 * One Republicano
 
 Schools
--Coar
--Sagrado Corazon de jesus
--Claretiano
+*Coar
+*Sagrado Corazon de jesus
+*Claretiano
